@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document-0.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Entire_document-0.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Entire_document-0.png",
         "selector": "document",
         "fileName": "Entire_document-0.png",
         "label": "Entire document",
@@ -21,16 +21,16 @@ report({
             "height": -65
           },
           "misMatchPercentage": "7.74",
-          "analysisTime": 59
+          "analysisTime": 73
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Entire_document-0.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Entire_document-0.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Form-0.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Form-0.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Form-0.png",
         "selector": "form",
         "fileName": "Form-0.png",
         "label": "Form",
@@ -47,16 +47,16 @@ report({
             "height": -85
           },
           "misMatchPercentage": "7.00",
-          "analysisTime": 44
+          "analysisTime": 46
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Form-0.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Form-0.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-0.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Fieldset_tag-0.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Fieldset_tag-0.png",
         "selector": "fieldset",
         "fileName": "Fieldset_tag-0.png",
         "label": "Fieldset tag",
@@ -73,16 +73,16 @@ report({
             "height": -10
           },
           "misMatchPercentage": "6.88",
-          "analysisTime": 44
+          "analysisTime": 45
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Fieldset_tag-0.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Fieldset_tag-0.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-1.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Fieldset_tag-1.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Fieldset_tag-1.png",
         "selector": "fieldset.__n1",
         "fileName": "Fieldset_tag-1.png",
         "label": "Fieldset tag",
@@ -99,16 +99,16 @@ report({
             "height": -20
           },
           "misMatchPercentage": "6.56",
-          "analysisTime": 38
+          "analysisTime": 35
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Fieldset_tag-1.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Fieldset_tag-1.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-2.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Fieldset_tag-2.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Fieldset_tag-2.png",
         "selector": "fieldset.__n2",
         "fileName": "Fieldset_tag-2.png",
         "label": "Fieldset tag",
@@ -125,16 +125,16 @@ report({
             "height": -20
           },
           "misMatchPercentage": "6.97",
-          "analysisTime": 44
+          "analysisTime": 71
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Fieldset_tag-2.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Fieldset_tag-2.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Fieldset_tag-3.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Fieldset_tag-3.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Fieldset_tag-3.png",
         "selector": "fieldset.__n3",
         "fileName": "Fieldset_tag-3.png",
         "label": "Fieldset tag",
@@ -151,16 +151,16 @@ report({
             "height": -35
           },
           "misMatchPercentage": "4.59",
-          "analysisTime": 38
+          "analysisTime": 51
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Fieldset_tag-3.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Fieldset_tag-3.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Submit_button-0.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Submit_button-0.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Submit_button-0.png",
         "selector": "[type=\"submit\"]",
         "fileName": "Submit_button-0.png",
         "label": "Submit button",
@@ -184,7 +184,7 @@ report({
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Email_with_placeholder-0.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Email_with_placeholder-0.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Email_with_placeholder-0.png",
         "selector": "[type=\"email\"][placeholder]",
         "fileName": "Email_with_placeholder-0.png",
         "label": "Email with placeholder",
@@ -201,16 +201,16 @@ report({
             "height": 0
           },
           "misMatchPercentage": "16.60",
-          "analysisTime": 19
+          "analysisTime": 9
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Email_with_placeholder-0.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Email_with_placeholder-0.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Number_with_value-0.png",
-        "test": "..\\bitmaps_test\\20220722-151723\\Number_with_value-0.png",
+        "test": "..\\bitmaps_test\\20220802-101306\\Number_with_value-0.png",
         "selector": "[type=\"number\"][value]",
         "fileName": "Number_with_value-0.png",
         "label": "Number with value",
@@ -227,9 +227,9 @@ report({
             "height": 0
           },
           "misMatchPercentage": "1.66",
-          "analysisTime": 5
+          "analysisTime": 3
         },
-        "diffImage": "..\\bitmaps_test\\20220722-151723\\failed_diff_Number_with_value-0.png"
+        "diffImage": "..\\bitmaps_test\\20220802-101306\\failed_diff_Number_with_value-0.png"
       },
       "status": "fail"
     }
